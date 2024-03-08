@@ -1,0 +1,137 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Luka",
+    "LastName": "Tsagareishvili",
+    "PrivateNumber": "01008048787",
+    "Password": "7993",
+    "Balance": 1650.0,
+    "customer": null
+  },
+  {
+    "Id": 2,
+    "FirstName": "Saba",
+    "LastName": "Tsagareishvili",
+    "PrivateNumber": "01008048786",
+    "Password": "7470",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 3,
+    "FirstName": "George",
+    "LastName": "Mikautadze",
+    "PrivateNumber": "01008012283",
+    "Password": "8207",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 4,
+    "FirstName": "Luis",
+    "LastName": "Figo",
+    "PrivateNumber": "01008048782",
+    "Password": "3770",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 5,
+    "FirstName": "Arjer",
+    "LastName": "Robben",
+    "PrivateNumber": "01002345124",
+    "Password": "7095",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 6,
+    "FirstName": "Giorgios",
+    "LastName": "Valancunas",
+    "PrivateNumber": "21345687231",
+    "Password": "7632",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 7,
+    "FirstName": "Hello",
+    "LastName": "Hello",
+    "PrivateNumber": "90328923542",
+    "Password": "6099",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 8,
+    "FirstName": null,
+    "LastName": "",
+    "PrivateNumber": "01001245219",
+    "Password": "6236",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 9,
+    "FirstName": "giorgi",
+    "LastName": "Kinkladze",
+    "PrivateNumber": "90239845872",
+    "Password": "7558",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 10,
+    "FirstName": "giorgi",
+    "LastName": "hello",
+    "PrivateNumber": "90327854212",
+    "Password": "9182",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 11,
+    "FirstName": "Hasan",
+    "LastName": "Tsetskhladze",
+    "PrivateNumber": "01008743652",
+    "Password": "3458",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 12,
+    "FirstName": "sad",
+    "LastName": "kinkladze",
+    "PrivateNumber": "90329845672",
+    "Password": "2099",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 13,
+    "FirstName": "Luca",
+    "LastName": "Hello",
+    "PrivateNumber": "90238954672",
+    "Password": "4753",
+    "Balance": 0.0,
+    "customer": null
+  },
+  {
+    "Id": 14,
+    "FirstName": "luca",
+    "LastName": "hello",
+    "PrivateNumber": "09328945672",
+    "Password": "9313",
+    "Balance": 500.0,
+    "customer": null
+  },
+  {
+    "Id": 15,
+    "FirstName": "luca",
+    "LastName": "helooo",
+    "PrivateNumber": "23985476213",
+    "Password": "9400",
+    "Balance": 6550.0,
+    "customer": null
+  }
+]

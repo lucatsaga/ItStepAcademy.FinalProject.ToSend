@@ -1,0 +1,26 @@
+﻿3/8/2024 6:39:26 PM: Hello Hello ID:7 have added 200 Lari to his/her account. Existing Balance is 750.0Lari
+
+3/8/2024 6:40:02 PM: Hello Hello ID:7 have added 550 Lari to his/her account. Existing Balance is 550.0Lari
+
+3/8/2024 6:40:21 PM: Luka Tsagareishvili ID:1 have added 550 Lari to his/her account. Existing Balance is 550.0Lari
+
+3/8/2024 7:23:55 PM: Luka Tsagareishvili ID:1 have added 550 Lari to his/her account. Existing Balance is 550.0Lari
+
+3/8/2024 7:24:05 PM: Luka Tsagareishvili ID:1 have added 250 Lari to his/her account. Existing Balance is 800.0Lari
+
+3/8/2024 7:24:24 PM: Luka Tsagareishvili ID:1 have withdrawn 250Lari from his/her account. Existing Balance is 550.0Lari
+
+3/8/2024 7:41:51 PM: The balance of ID9, giorgi Kinkladze is 0Lari
+
+3/8/2024 7:57:29 PM: luca hello ID:14 have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/8/2024 8:00:23 PM: The balance of ID15, luca helooo is 0Lari
+
+3/8/2024 8:00:33 PM: luca helooo ID:15 have added 6550 Lari to his/her account. Existing Balance is 6550Lari
+
+3/8/2024 8:02:46 PM: Luka Tsagareishvili ID:1 have added 550 Lari to his/her account. Existing Balance is 1100.0Lari
+
+3/8/2024 8:03:56 PM: Luka Tsagareishvili ID:1 have added 550 Lari to his/her account. Existing Balance is 1650.0Lari
+
+3/8/2024 8:04:06 PM: The balance of ID1, Luka Tsagareishvili is 1650.0Lari
+
